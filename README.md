@@ -356,6 +356,8 @@ vulnerabilities privately as described in [SECURITY.md](SECURITY.md).
 * Tokens: https://polyzon.org/account/
 * Source: https://github.com/PolyzonOrg/polyzon-python
 
+> If you use the free Polyzon API, it would be great if you mentioned Polyzon (for example, with a link to [polyzon.org](https://polyzon.org)) on the pages of your project where the API is used.
+
 ## License
 
 [MIT](LICENSE)

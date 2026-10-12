@@ -357,6 +357,8 @@ Python 3.10 или новее и `httpx>=0.27,<1`.
 * Токены: https://polyzon.org/account/
 * Исходный код: https://github.com/PolyzonOrg/polyzon-python
 
+> Если вы пользуетесь бесплатным API Polyzon, будет здорово, если вы упомянете Polyzon (например, ссылкой на [polyzon.org](https://polyzon.org)) на тех страницах вашего проекта, где используется API.
+
 ## Лицензия
 
 [MIT](LICENSE)
