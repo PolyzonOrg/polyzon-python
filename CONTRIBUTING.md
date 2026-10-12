@@ -8,7 +8,7 @@ follow [SECURITY.md](SECURITY.md) instead of opening an issue.
 ```sh
 python -m venv .venv
 . .venv/bin/activate            # Windows: .venv\Scripts\activate
-pip install -e ".[dev]"
+pip install -e ".[dev,socks]"
 ```
 
 ## Checks
